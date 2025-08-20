@@ -240,6 +240,7 @@ Navigation:
 * [BitField Attribute](https://github.com/lee-io/BitField-Attribute) - Enable bit field masking from the Unity Editor.
 * [ScriptableObject Menu](https://github.com/lee-io/ScriptableObject-Menu) - Create ScriptableObjects from the Unity Editor.
 * [StableDiffusionUnityTools](https://github.com/KonH/StableDiffusionUnityTools) - Editor assets generation via Stable Diffusion.
+* [AutoScene](https://github.com/chsxf/AutoScene) - Edit a Scene, Play Another.
 
 ### Editors
 * [Brainiac](https://github.com/daemon3000/Brainiac) - behaviour tree & (behaviour-)node-based visual editor.
